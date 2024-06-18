@@ -1,9 +1,11 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Srisankar</h1>
-🔭 I’m currently working on Hospital Management System
-🌱 I’m currently learning React Native
-💬 Ask me about React, Node
-📫 How to reach me: srisankar2001@gmail.com
+<ul>
+  <li>🔭 I’m currently working on Hospital Management System</li>
+  <li>🌱 I’m currently learning React Native</li>
+  <li>💬 Ask me about React, Node</li>
+  <li>📫 How to reach me: srisankar2001@gmail.com</li>
+</ul>
 <div align="center">
   <a href="https://www.linkedin.com/in/srisankar2001" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
