@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Srisankar</h1>
 <ul>
-  <li>🔭 I’m currently working on Hospital Management System  🔗<a href="https://github.com/Srisankar2001/hospital.git">Here</a></li>🔗
+  <li>🔭 I’m currently working on Hospital Management System  🔗<a href="https://github.com/Srisankar2001/hospital.git">Here</a></li>
   <li>🌱 I’m currently learning React Native</li>
   <li>💬 Ask me about React, Node</li>
   <li>📫 How to reach me: srisankar2001@gmail.com</li>
